@@ -28,6 +28,3 @@ AI-chatbot/
 ├── chatbot.py
 └── README.md
 
-## Author
-
-Saniya Firdos
